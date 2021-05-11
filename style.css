@@ -1,0 +1,24 @@
+body {
+    padding: 2rem;
+    background-color:beige;
+}
+h1 {
+    text-align: center;
+}
+
+.formulaire {
+    height: 35vh;
+    
+    margin-left:31.5%;
+    margin-top: 4rem;
+    
+
+}
+
+.column {
+    display:inline-flex;
+    flex-direction: column;
+    width: 10rem;
+    justify-content: space-around;
+    height: 10rem;
+}
